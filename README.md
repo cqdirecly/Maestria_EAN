@@ -44,5 +44,5 @@ El notebook incluye:
 
 ---
 
-✏️ *Autor: [Tu Nombre]*
+✏️ *Autores: [Christian Quimbay, Helber Quimbay]*
 
