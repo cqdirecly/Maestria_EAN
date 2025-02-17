@@ -12,7 +12,7 @@ pip install pandas
 
 ## 📂 Contenido
 
-- `notebook.ipynb` - Contiene el análisis de datos con código y visualizaciones.
+- `Solucion_Guia_2.ipynb` - Contiene el análisis de datos con código y visualizaciones.
 - `telecom_churn.csv` - Archivo de datos usado en el notebook.
 - `README.md` - Este archivo con la descripción del proyecto.
 
