@@ -17,7 +17,7 @@ pip install pandas matplotlib seaborn
    - `telecom_churn.csv` - Archivo de datos usado en el notebook.
 - #### Guia 3
    - `Guía3.ipynb` - Contiene el análisis de datos con código y visualizaciones Guia 3.
-   - `accidents-1.csv` - Archivo de datos usado en el notebook.
+   - `accidents-1.zip` - Archivo de datos usado en el notebook. **(Descomprimir el archivo .zip para obtener el archivo .csv)**
 
 - `README.md` - Este archivo con la descripción del proyecto.
 
