@@ -7,13 +7,18 @@ Este repositorio contiene un **notebook de Python** que realiza un análisis de 
 Para ejecutar el notebook, necesitas instalar las siguientes bibliotecas:
 
 ```bash
-pip install pandas
+pip install pandas matplotlib seaborn
 ```
 
 ## 📂 Contenido
 
-- `Solucion_Guia_2.ipynb` - Contiene el análisis de datos con código y visualizaciones.
-- `telecom_churn.csv` - Archivo de datos usado en el notebook.
+- #### Guia 2
+   - `Solucion_Guia_2.ipynb` - Contiene el análisis de datos con código y visualizaciones Guia 2.
+   - `telecom_churn.csv` - Archivo de datos usado en el notebook.
+- #### Guia 3
+   - `Guía3.ipynb` - Contiene el análisis de datos con código y visualizaciones Guia 3.
+   - `accidents-1.csv` - Archivo de datos usado en el notebook.
+
 - `README.md` - Este archivo con la descripción del proyecto.
 
 ## 🚀 Uso
@@ -22,20 +27,20 @@ pip install pandas
    ```bash
    git clone https://github.com/cqdirecly/Maestria_EAN.git
    ```
-2. Accede a la carpeta del proyecto:
+2. Accede a las carpeta de cada Guía:
    ```bash
-   cd Guias/Guia2/
+   cd Guias/GuiaX/
    ```
 3. Abre el notebook en Google Colab:
    ```bash
-   Solucion_Guia_2.ipynb.ipynb
+   Guiax.ipynb
    ```
 
 ## 📊 Descripción del Análisis
 
 El notebook incluye:
 
-- Carga y exploración de datos con `pandas`.
+- Carga y exploración de datos con `pandas,matplotlib,seaborn`.
 
 
 ## 📝 Notas
